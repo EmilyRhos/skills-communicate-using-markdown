@@ -1,3 +1,5 @@
 # Header One is the biggest
 ## Header Two is still pretty big
-## I'm fine with Header Three
+## Anyways, here's Yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
