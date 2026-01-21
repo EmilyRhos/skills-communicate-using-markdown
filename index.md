@@ -7,3 +7,7 @@
 ``` python
 variable = "Hello, world!"
 ```
+
+- [x] Create a task list
+- [ ] Finish step 5
+- [ ] Finish the course
